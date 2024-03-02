@@ -6,7 +6,7 @@
 Please search one raw file at a time against MetaPep database using DIA-NN. The MetaPep database can be downloaded here or the MetaPep article (doi: 10.1016/j.csbj.2023.08.025). Because the workflow will generate a spample-specific database, please be sure only put one raw data a time.
 
 
-[Download](https://github.com/northomics/MetaDIA/releases/download/pub/workflow.7z) and extract the workflow and resources
+[Download](https://github.com/northomics/MetaDIA/releases/download/Pub/workflow.7z) and extract the workflow and resources
 
 
 1.Run the GUI by click the start.bat file
