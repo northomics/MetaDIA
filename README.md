@@ -30,6 +30,6 @@ Reduced_peptide_database.fasta can be found in the output folder. The peptide_pr
 
 1.Functional abundance file: function.abundance.possibility.csv in the workflow file
 
-2.Functional annotation folder: The data is downloaded from the UHGP database (version 2.0.2, doi:10.1038/s41587-020-0603-3). Put all [species_accession]_eggNOG.tsv into one file. (https://ftp.ebi.ac.uk/pub/databases/metagenomics/mgnify_genomes/human-gut/v2.0.1/)
+2.Functional annotation folder: The data is downloaded from the UHGP database (version 2.0.2, doi:10.1038/s41587-020-0603-3). Put all [species_accession]_eggNOG.tsv into one folder. (https://ftp.ebi.ac.uk/pub/databases/metagenomics/mgnify_genomes/human-gut/v2.0.1/)
 
 3.MetaPepDetec: Please downloaded the database from (https://osf.io/zrgaf)
